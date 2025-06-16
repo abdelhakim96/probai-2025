@@ -16,3 +16,9 @@ For the detailed program, please visit our [website](https://nordic.probabilisti
 ## Contact
 
 For all your questions or suggestions, please contact us at [hello@probabilistic.ai](mailto:hello@probabilistic.ai).
+
+
+## Notes:
+
+- interesting talks and ideas.
+  1. Pyro probablistic modelling framework, causal inference. Modifing the model using cyro, perhaps can be combined with conformal predictions?
